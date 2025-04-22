@@ -3,6 +3,8 @@
 ## Overview
 The ECAT Quiz Application is a graphical user interface (GUI) program developed using Python's `tkinter` library. It simulates an entrance exam quiz for the University of Engineering and Technology (UET) Entry Test (ECAT). The application includes a login screen, quiz questions, a timer, and a scoring system.
 
+![Architecture Diagram](tkinter.png)
+
 ## Features
 - **Login Page**: Users must log in with a predefined username and password.
 - **Quiz Interface**: Displays multiple-choice questions, one at a time.
